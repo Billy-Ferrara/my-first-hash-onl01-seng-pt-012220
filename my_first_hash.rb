@@ -1,12 +1,12 @@
 def my_hash
  
-  your_hash{"director" => "Judd Apatow"}
+  your_hash ={"director" => "Judd Apatow"}
   
 end
 
 
 def shipping_manifest
-  the_manifest{ 
+  the_manifest ={ 
   "whale bone corsets" => 5,
   "porcelein vases" => 2,
   "oil paintings" => 3
