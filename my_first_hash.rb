@@ -24,7 +24,7 @@ def retrieval
 
 end
 
-shipping_manifest
+shipping_manifest[]
 
 def adding
   shipping_manifest = {
