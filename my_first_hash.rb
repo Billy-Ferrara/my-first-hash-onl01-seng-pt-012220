@@ -46,8 +46,3 @@ end
 
 
   # return the shipping_manifest hash below
-shipping_manifest
-
-shipping_manifest
-
-
