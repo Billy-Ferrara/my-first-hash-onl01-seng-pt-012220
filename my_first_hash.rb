@@ -1,5 +1,5 @@
 def my_hash
-  your_hash{"director" => "Judd Apatow"}
+  your_hash{"director" = "Judd Apatow"}
   
 end
 
@@ -43,6 +43,6 @@ shipping_manifest["gun powder"] = 4
   # return the shipping_manifest hash below
 shipping_manifest
 
-
+shipping_manifest
 
 
