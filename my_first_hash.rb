@@ -10,6 +10,8 @@ def shipping_manifest
   "whale bone corsets" => 5,
   "porcelein vases" => 2,
   "oil paintings" => 3
+    
+  }
 
 end
 
