@@ -24,7 +24,7 @@ def retrieval
 
 end
 
-the_manifest["oil paintings"]
+shipping_manifest["oil paintings"]
 
 def adding
   shipping_manifest = {
